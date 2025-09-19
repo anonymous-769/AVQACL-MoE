@@ -25,9 +25,9 @@ AVQACL-MoE is an anchor-based Mixture-of-Experts (MoE) framework for Audio-Visua
 
 ## 📦 Checkpoints (must prepare before training)
 Place the following at the exact paths:
-- `checkpoints/AVQACL-MoE-base-converted`
-- `checkpoints/clip-vit-large-patch14-336`
-- `checkpoints/BEATs_iter3_plus_AS2M.pt`
+- [`checkpoints/AVQACL-MoE-base`](https://huggingface.co/anonymous-769/AVQACL-MoE)
+- [`checkpoints/clip-vit-large-patch14-336`](https://huggingface.co/openai/clip-vit-large-patch14-336/tree/main)
+- [`checkpoints/BEATs_iter3_plus_AS2M.pt`](https://1drv.ms/u/s!AqeByhGUtINrgcpke6_lRSZEKD5j2Q?e=A3FpOf)
 
 
 ## 🗂️ Data Preparation
@@ -49,10 +49,12 @@ Step 2 — Verify/Prepare Data
 Step 3 — Train (script-based)
 - Run: `bash train_all_tasks.sh` (in a bash-capable environment: Linux/cluster/WSL)
 - What happens: sequentially trains experts for tasks 0→3 in anchor mode, freezing the backbone and saving experts/anchors and logs (see Outputs).
+- We also provide pre-trained experts and anchors for reproducing the split-AVQA and split-AVQA-MUSIC dataset results so that you don't need to run training scripts:[`checkpoints/AVQACL-MoE-experts`](https://huggingface.co/anonymous-769/AVQACL-MoE-expert)
 
 Step 4 — Evaluate (script-based)
 - Run: `bash eval_all_tasks.sh`
 - What happens: loads `output/AVQA/experts` and `output/AVQA/anchors`, evaluates tasks 0–3, and saves results JSONs and logs (see Outputs).
+- We also provide pre-trained experts and anchors for reproducing the split-AVQA and split-AVQA-MUSIC dataset results:[`checkpoints/AVQACL-MoE-experts`](https://huggingface.co/anonymous-769/AVQACL-MoE-expert)
 
 Step 5 — Locate Results
 - See `eval_results/AVQA/` for per-task JSONs and `logs/` for progress and summaries.
@@ -120,7 +122,7 @@ If you find our work useful, please cite:
 @inproceedings{avqacl_moe,
   title     = {AVQACL-MoE: Anchor-Based Mixture-of-Experts for Audio-Visual Question Answering Continual Learning},
   author    = {To be updated},
-  booktitle = {ICLR},
+  booktitle = {To be updated},
   year      = {2026}
 }
 ```
