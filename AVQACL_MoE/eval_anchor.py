@@ -34,7 +34,7 @@ import copy
 from AVQACL_MoE.eval import make_supervised_data_module, args, preprocess, rank0_print, extract_image_from_zip
 from AVQACL_MoE.train.data import ModelArguments as BaseModelArguments
 
-AUDIOSTART = "/home/qukungroup/xiaoyao/"
+AUDIOSTART = "/path/to/"
 
 local_rank = None
 

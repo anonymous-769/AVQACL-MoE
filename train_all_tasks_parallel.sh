@@ -8,8 +8,8 @@
 #SBATCH --qos=gpu_8a100
 #SBATCH --array=0-3
 export PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128
-export PYTHONPATH="/home/qukungroup/xiaoyao/myprojects/AVQACL-MoE:$PYTHONPATH"
-cd /home/qukungroup/xiaoyao/myprojects/AVQACL-MoE
+export PYTHONPATH="/path/to/AVQACL-MoE:$PYTHONPATH"
+cd /path/to/AVQACL-MoE
 source activate unimoe
 
 TASK_ID=$SLURM_ARRAY_TASK_ID

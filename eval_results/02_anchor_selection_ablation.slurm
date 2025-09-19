@@ -7,7 +7,7 @@
 #SBATCH --ntasks=6
 #SBATCH --time=240:00:00
 # 路由选择消融实验
-cd /home/qukungroup/xiaoyao/myprojects/AVQACL-MoE-Music/eval_results
+cd /path/to/AVQACL-MoE-Music/eval_results
 
 source activate unimoe
 

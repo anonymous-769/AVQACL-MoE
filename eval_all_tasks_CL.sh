@@ -7,8 +7,8 @@
 #SBATCH --ntasks=8
 #SBATCH --qos=gpu_8a100
 
-export PYTHONPATH="/home/qukungroup/xiaoyao/myprojects/AVQACL-MoE:$PYTHONPATH"
-cd /home/qukungroup/xiaoyao/myprojects/AVQACL-MoE
+export PYTHONPATH="/path/to/AVQACL-MoE:$PYTHONPATH"
+cd /path/to/AVQACL-MoE
 source activate unimoe
 
 echo "Starting AVQACL-MoE Anchor Mode Evaluation for CL Tasks"

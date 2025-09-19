@@ -42,12 +42,13 @@ Step 0 — Environment
 
 Step 1 — Prepare Checkpoints
 - Make sure the three checkpoints are placed under `checkpoints/` with the exact names.
+- Remember to replace AUDIOSTART in eval_anchor.py and data.py with your real project path like "/home/Zhangsan/projects/AVQACL-MoE"
 
 Step 2 — Verify/Prepare Data
 - Keep your train/val/test JSON files consistent with script references.
 
 Step 3 — Train (script-based)
-- Run: `bash train_all_tasks.sh` (in a bash-capable environment: Linux/cluster/WSL)
+- Run: `bash train_all_tasks.sh`
 - What happens: sequentially trains experts for tasks 0→3 in anchor mode, freezing the backbone and saving experts/anchors and logs (see Outputs).
 - We also provide pre-trained experts and anchors for reproducing the split-AVQA and split-AVQA-MUSIC dataset results so that you don't need to run training scripts:[`checkpoints/AVQACL-MoE-experts`](https://huggingface.co/anonymous-769/AVQACL-MoE-expert)
 

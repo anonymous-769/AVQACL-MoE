@@ -7,8 +7,8 @@
 #SBATCH --ntasks=8
 #SBATCH --qos=gpu_8a100
 export PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128
-export PYTHONPATH="/home/qukungroup/xiaoyao/myprojects/AVQACL-MoE:$PYTHONPATH"
-cd /home/qukungroup/xiaoyao/myprojects/AVQACL-MoE
+export PYTHONPATH="/path/to/AVQACL-MoE:$PYTHONPATH"
+cd /path/to/AVQACL-MoE
 source activate unimoe
 
 echo "Starting Anchor MoE Mode Training for All Tasks"

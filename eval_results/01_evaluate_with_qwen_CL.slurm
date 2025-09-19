@@ -7,7 +7,7 @@
 #SBATCH --ntasks=6
 #SBATCH --time=240:00:00
 # CL必做的验证流程
-cd /home/qukungroup/xiaoyao/myprojects/AVQACL-MoE-Music/eval_results
+cd /path/to/AVQACL-MoE-Music/eval_results
 
 source activate unimoe
 

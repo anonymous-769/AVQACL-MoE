@@ -26,7 +26,7 @@ from AVQACL_MoE.mm_utils import tokenizer_image_token,tokenizer_image_audio_toke
 
 from PIL import Image
 
-AUDIOSTART = "/home/qukungroup/xiaoyao/"
+AUDIOSTART = "/path/to/"
 
 local_rank = None
 
