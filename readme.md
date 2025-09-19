@@ -1,6 +1,6 @@
 # AVQACL-MoE: Anchor-Based Mixture-of-Experts for Audio-Visual Question Answering Continual Learning
 
-🏠 Homepage | 🤗 Weights (Including AVQA dataset Experts) | 📖 Paper (To Appear)
+🏠 Homepage | 🤗 Weights (Including Experts weights and anchors) | 📖 Paper (To Appear)
 
 AVQACL-MoE is an anchor-based Mixture-of-Experts (MoE) framework for Audio-Visual Question Answering Continual Learning (AVQACL). It freezes a pre-trained audio-visual backbone, incrementally trains task-specialized experts, and performs task-independent routing via modality-specific anchors at inference.
 
