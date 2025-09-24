@@ -10,7 +10,7 @@
 export PYTORCH_CUDA_ALLOC_CONF=max_split_size_mb:128
 export PYTHONPATH="/path/to/AVQACL-MoE:$PYTHONPATH"
 cd /path/to/AVQACL-MoE
-source activate unimoe
+source activate avqacl-moe
 
 TASK_ID=$SLURM_ARRAY_TASK_ID
 echo "Starting AVQACL-MoE Anchor Mode Training for Task $TASK_ID"
