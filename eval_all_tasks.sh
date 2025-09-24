@@ -9,7 +9,7 @@
 
 export PYTHONPATH="/path/to/AVQACL-MoE:$PYTHONPATH"
 cd /path/to/AVQACL-MoE
-source activate unimoe
+source activate avqacl-moe
 
 echo "Starting AVQACL-MoE Anchor Mode Evaluation for All Tasks"
 echo "================================================================================"
