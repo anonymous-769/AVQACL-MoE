@@ -1,0 +1,262 @@
+[
+  {
+    "id": "5690",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people doing in this video?"
+      },
+      {
+        "from": "gpt",
+        "value": "riding"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/3sf-Fa7cZfA/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/3sf-Fa7cZfA/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/3sf-Fa7cZfA/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/3sf-Fa7cZfA/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/3sf-Fa7cZfA/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/3sf-Fa7cZfA/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/3sf-Fa7cZfA/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/3sf-Fa7cZfA/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/3sf-Fa7cZfA/audio.wav"
+    ]
+  },
+  {
+    "id": "58043",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people doing in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "How to plan wood"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/BLazLXck3Ec/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/BLazLXck3Ec/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/BLazLXck3Ec/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/BLazLXck3Ec/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/BLazLXck3Ec/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/BLazLXck3Ec/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/BLazLXck3Ec/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/BLazLXck3Ec/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/BLazLXck3Ec/audio.wav"
+    ]
+  },
+  {
+    "id": "27946",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people in the video doing?"
+      },
+      {
+        "from": "gpt",
+        "value": "rowing"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/TYs0hVQ1zMY/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/TYs0hVQ1zMY/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/TYs0hVQ1zMY/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/TYs0hVQ1zMY/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/TYs0hVQ1zMY/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/TYs0hVQ1zMY/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/TYs0hVQ1zMY/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/TYs0hVQ1zMY/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/TYs0hVQ1zMY/audio.wav"
+    ]
+  },
+  {
+    "id": "40812",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people in the video doing?"
+      },
+      {
+        "from": "gpt",
+        "value": "Nailing"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jTY4DOQ5q9Y/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jTY4DOQ5q9Y/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jTY4DOQ5q9Y/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jTY4DOQ5q9Y/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jTY4DOQ5q9Y/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jTY4DOQ5q9Y/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jTY4DOQ5q9Y/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jTY4DOQ5q9Y/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jTY4DOQ5q9Y/audio.wav"
+    ]
+  },
+  {
+    "id": "10491",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people doing in this video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Sewing shoes"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/9QpBerbdJSk/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/9QpBerbdJSk/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/9QpBerbdJSk/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/9QpBerbdJSk/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/9QpBerbdJSk/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/9QpBerbdJSk/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/9QpBerbdJSk/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/9QpBerbdJSk/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/9QpBerbdJSk/audio.wav"
+    ]
+  },
+  {
+    "id": "42782",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people doing in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Rope skipping"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/m4ibOQLzRXs/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/m4ibOQLzRXs/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/m4ibOQLzRXs/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/m4ibOQLzRXs/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/m4ibOQLzRXs/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/m4ibOQLzRXs/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/m4ibOQLzRXs/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/m4ibOQLzRXs/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/m4ibOQLzRXs/audio.wav"
+    ]
+  },
+  {
+    "id": "43051",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people in the video doing?"
+      },
+      {
+        "from": "gpt",
+        "value": "cut grass"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/mZeNbLxPpZ4/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/mZeNbLxPpZ4/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/mZeNbLxPpZ4/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/mZeNbLxPpZ4/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/mZeNbLxPpZ4/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/mZeNbLxPpZ4/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/mZeNbLxPpZ4/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/mZeNbLxPpZ4/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/mZeNbLxPpZ4/audio.wav"
+    ]
+  },
+  {
+    "id": "21712",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people in the video doing?"
+      },
+      {
+        "from": "gpt",
+        "value": "Using a sewing machine"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/LjTQA8G6hoQ/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/LjTQA8G6hoQ/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/LjTQA8G6hoQ/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/LjTQA8G6hoQ/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/LjTQA8G6hoQ/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/LjTQA8G6hoQ/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/LjTQA8G6hoQ/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/LjTQA8G6hoQ/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/LjTQA8G6hoQ/audio.wav"
+    ]
+  },
+  {
+    "id": "19168",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people doing in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "skiing"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IqJ4Y8DHpqg/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IqJ4Y8DHpqg/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IqJ4Y8DHpqg/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IqJ4Y8DHpqg/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IqJ4Y8DHpqg/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IqJ4Y8DHpqg/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IqJ4Y8DHpqg/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IqJ4Y8DHpqg/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IqJ4Y8DHpqg/audio.wav"
+    ]
+  },
+  {
+    "id": "18319",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the people in the video doing?"
+      },
+      {
+        "from": "gpt",
+        "value": "Eat something"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HzZUCLCCVOM/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HzZUCLCCVOM/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HzZUCLCCVOM/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HzZUCLCCVOM/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HzZUCLCCVOM/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HzZUCLCCVOM/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HzZUCLCCVOM/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HzZUCLCCVOM/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HzZUCLCCVOM/audio.wav"
+    ]
+  }
+]

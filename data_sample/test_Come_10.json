@@ -1,0 +1,262 @@
+[
+  {
+    "id": "6593",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat is the main sound source of the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "fire engine"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/5DwlGkFX_GQ/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/5DwlGkFX_GQ/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/5DwlGkFX_GQ/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/5DwlGkFX_GQ/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/5DwlGkFX_GQ/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/5DwlGkFX_GQ/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/5DwlGkFX_GQ/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/5DwlGkFX_GQ/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/5DwlGkFX_GQ/audio.wav"
+    ]
+  },
+  {
+    "id": "29325",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat is the source of the sound in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fire engine siren"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/VODyG_bF2Uw/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/VODyG_bF2Uw/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/VODyG_bF2Uw/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/VODyG_bF2Uw/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/VODyG_bF2Uw/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/VODyG_bF2Uw/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/VODyG_bF2Uw/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/VODyG_bF2Uw/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/VODyG_bF2Uw/audio.wav"
+    ]
+  },
+  {
+    "id": "33014",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat is the source of the sound in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fire engine siren"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/_-h-6612NnU/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/_-h-6612NnU/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/_-h-6612NnU/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/_-h-6612NnU/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/_-h-6612NnU/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/_-h-6612NnU/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/_-h-6612NnU/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/_-h-6612NnU/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/_-h-6612NnU/audio.wav"
+    ]
+  },
+  {
+    "id": "48256",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat are the main sources of sound in this video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fire engine siren"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/uVzNNR9OFcE/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/uVzNNR9OFcE/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/uVzNNR9OFcE/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/uVzNNR9OFcE/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/uVzNNR9OFcE/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/uVzNNR9OFcE/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/uVzNNR9OFcE/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/uVzNNR9OFcE/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/uVzNNR9OFcE/audio.wav"
+    ]
+  },
+  {
+    "id": "20416",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat is the main sound source of the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fire engine siren"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KGW-1FJsySo/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KGW-1FJsySo/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KGW-1FJsySo/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KGW-1FJsySo/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KGW-1FJsySo/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KGW-1FJsySo/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KGW-1FJsySo/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KGW-1FJsySo/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KGW-1FJsySo/audio.wav"
+    ]
+  },
+  {
+    "id": "27072",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat is the source of the sound in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fire engine siren"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/SNsWpmHpGAU/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/SNsWpmHpGAU/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/SNsWpmHpGAU/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/SNsWpmHpGAU/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/SNsWpmHpGAU/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/SNsWpmHpGAU/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/SNsWpmHpGAU/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/SNsWpmHpGAU/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/SNsWpmHpGAU/audio.wav"
+    ]
+  },
+  {
+    "id": "29823",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat is the main source of sound in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Police car siren"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/W7GhDHlLzjM/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/W7GhDHlLzjM/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/W7GhDHlLzjM/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/W7GhDHlLzjM/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/W7GhDHlLzjM/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/W7GhDHlLzjM/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/W7GhDHlLzjM/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/W7GhDHlLzjM/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/W7GhDHlLzjM/audio.wav"
+    ]
+  },
+  {
+    "id": "45905",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat is the source of the sound in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fire engine siren"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/qhyrLOJ7LcQ/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/qhyrLOJ7LcQ/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/qhyrLOJ7LcQ/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/qhyrLOJ7LcQ/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/qhyrLOJ7LcQ/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/qhyrLOJ7LcQ/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/qhyrLOJ7LcQ/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/qhyrLOJ7LcQ/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/qhyrLOJ7LcQ/audio.wav"
+    ]
+  },
+  {
+    "id": "13090",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat is the source of the sound in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fire engine siren"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/CAwP1D4vHKc/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/CAwP1D4vHKc/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/CAwP1D4vHKc/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/CAwP1D4vHKc/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/CAwP1D4vHKc/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/CAwP1D4vHKc/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/CAwP1D4vHKc/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/CAwP1D4vHKc/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/CAwP1D4vHKc/audio.wav"
+    ]
+  },
+  {
+    "id": "16499",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat is the main sound source of the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Fire engine siren"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/FzchZj-9DAE/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/FzchZj-9DAE/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/FzchZj-9DAE/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/FzchZj-9DAE/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/FzchZj-9DAE/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/FzchZj-9DAE/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/FzchZj-9DAE/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/FzchZj-9DAE/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/FzchZj-9DAE/audio.wav"
+    ]
+  }
+]

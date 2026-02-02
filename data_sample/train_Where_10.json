@@ -1,0 +1,262 @@
+[
+  {
+    "id": "40802",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere did the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "seabed"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jSZSgsSgiL4/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jSZSgsSgiL4/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jSZSgsSgiL4/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jSZSgsSgiL4/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jSZSgsSgiL4/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jSZSgsSgiL4/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jSZSgsSgiL4/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jSZSgsSgiL4/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/jSZSgsSgiL4/audio.wav"
+    ]
+  },
+  {
+    "id": "12793",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere did the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "aquatic"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Br68ch0YUkE/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Br68ch0YUkE/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Br68ch0YUkE/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Br68ch0YUkE/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Br68ch0YUkE/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Br68ch0YUkE/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Br68ch0YUkE/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Br68ch0YUkE/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Br68ch0YUkE/audio.wav"
+    ]
+  },
+  {
+    "id": "22090",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere did the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "seabed"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/MDEDw8FekN8/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/MDEDw8FekN8/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/MDEDw8FekN8/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/MDEDw8FekN8/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/MDEDw8FekN8/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/MDEDw8FekN8/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/MDEDw8FekN8/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/MDEDw8FekN8/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/MDEDw8FekN8/audio.wav"
+    ]
+  },
+  {
+    "id": "57750",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere did the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "TOILET"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/AdT_D9X6sXw/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/AdT_D9X6sXw/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/AdT_D9X6sXw/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/AdT_D9X6sXw/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/AdT_D9X6sXw/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/AdT_D9X6sXw/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/AdT_D9X6sXw/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/AdT_D9X6sXw/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/AdT_D9X6sXw/audio.wav"
+    ]
+  },
+  {
+    "id": "40541",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere does the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "at sea"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/j4AAuB9XLVA/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/j4AAuB9XLVA/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/j4AAuB9XLVA/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/j4AAuB9XLVA/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/j4AAuB9XLVA/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/j4AAuB9XLVA/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/j4AAuB9XLVA/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/j4AAuB9XLVA/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/j4AAuB9XLVA/audio.wav"
+    ]
+  },
+  {
+    "id": "34644",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere did the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "On the road"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/b88UqF8XyJA/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/b88UqF8XyJA/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/b88UqF8XyJA/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/b88UqF8XyJA/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/b88UqF8XyJA/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/b88UqF8XyJA/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/b88UqF8XyJA/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/b88UqF8XyJA/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/b88UqF8XyJA/audio.wav"
+    ]
+  },
+  {
+    "id": "38699",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere did the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "On the road"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/gadAMBP4qzc/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/gadAMBP4qzc/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/gadAMBP4qzc/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/gadAMBP4qzc/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/gadAMBP4qzc/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/gadAMBP4qzc/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/gadAMBP4qzc/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/gadAMBP4qzc/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/gadAMBP4qzc/audio.wav"
+    ]
+  },
+  {
+    "id": "60648",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere does the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "On the road"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HFW8GrQxsr0/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HFW8GrQxsr0/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HFW8GrQxsr0/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HFW8GrQxsr0/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HFW8GrQxsr0/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HFW8GrQxsr0/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HFW8GrQxsr0/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HFW8GrQxsr0/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/HFW8GrQxsr0/audio.wav"
+    ]
+  },
+  {
+    "id": "57003",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere did the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "In the field"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/8vNwkQIcrG4/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/8vNwkQIcrG4/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/8vNwkQIcrG4/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/8vNwkQIcrG4/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/8vNwkQIcrG4/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/8vNwkQIcrG4/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/8vNwkQIcrG4/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/8vNwkQIcrG4/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/8vNwkQIcrG4/audio.wav"
+    ]
+  },
+  {
+    "id": "20410",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhere did the video take place?"
+      },
+      {
+        "from": "gpt",
+        "value": "aquatic"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KFxMUCcIJFA/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KFxMUCcIJFA/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KFxMUCcIJFA/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KFxMUCcIJFA/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KFxMUCcIJFA/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KFxMUCcIJFA/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KFxMUCcIJFA/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KFxMUCcIJFA/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KFxMUCcIJFA/audio.wav"
+    ]
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "35218",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat animal is in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Cat and crow"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/bvACrx5oxBI/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/bvACrx5oxBI/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/bvACrx5oxBI/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/bvACrx5oxBI/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/bvACrx5oxBI/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/bvACrx5oxBI/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/bvACrx5oxBI/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/bvACrx5oxBI/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/bvACrx5oxBI/audio.wav"
+    ]
+  },
+  {
+    "id": "21004",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat animal appears in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "duck"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KuYrQl9iO0s/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KuYrQl9iO0s/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KuYrQl9iO0s/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KuYrQl9iO0s/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KuYrQl9iO0s/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KuYrQl9iO0s/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KuYrQl9iO0s/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KuYrQl9iO0s/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/KuYrQl9iO0s/audio.wav"
+    ]
+  },
+  {
+    "id": "33881",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat happened in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "Volcano eruption"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/a5qlRs3QU3s/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/a5qlRs3QU3s/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/a5qlRs3QU3s/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/a5qlRs3QU3s/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/a5qlRs3QU3s/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/a5qlRs3QU3s/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/a5qlRs3QU3s/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/a5qlRs3QU3s/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/a5qlRs3QU3s/audio.wav"
+    ]
+  },
+  {
+    "id": "32838",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat animal is in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "cat"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/ZnvAvIVmTMg/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/ZnvAvIVmTMg/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/ZnvAvIVmTMg/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/ZnvAvIVmTMg/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/ZnvAvIVmTMg/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/ZnvAvIVmTMg/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/ZnvAvIVmTMg/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/ZnvAvIVmTMg/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/ZnvAvIVmTMg/audio.wav"
+    ]
+  },
+  {
+    "id": "49603",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat animals appear in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "penguin"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/wYeyxwPsBsA/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/wYeyxwPsBsA/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/wYeyxwPsBsA/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/wYeyxwPsBsA/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/wYeyxwPsBsA/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/wYeyxwPsBsA/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/wYeyxwPsBsA/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/wYeyxwPsBsA/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/wYeyxwPsBsA/audio.wav"
+    ]
+  },
+  {
+    "id": "22860",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat animal appears in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "horse"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/N8SVvLCRhKQ/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/N8SVvLCRhKQ/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/N8SVvLCRhKQ/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/N8SVvLCRhKQ/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/N8SVvLCRhKQ/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/N8SVvLCRhKQ/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/N8SVvLCRhKQ/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/N8SVvLCRhKQ/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/N8SVvLCRhKQ/audio.wav"
+    ]
+  },
+  {
+    "id": "18939",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat animal appears in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "cat"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IcDsqSC5Z-c/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IcDsqSC5Z-c/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IcDsqSC5Z-c/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IcDsqSC5Z-c/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IcDsqSC5Z-c/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IcDsqSC5Z-c/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IcDsqSC5Z-c/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IcDsqSC5Z-c/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/IcDsqSC5Z-c/audio.wav"
+    ]
+  },
+  {
+    "id": "24918",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat animal appears in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "dove"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Pl3r7MvF72Q/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Pl3r7MvF72Q/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Pl3r7MvF72Q/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Pl3r7MvF72Q/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Pl3r7MvF72Q/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Pl3r7MvF72Q/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Pl3r7MvF72Q/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Pl3r7MvF72Q/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/Pl3r7MvF72Q/audio.wav"
+    ]
+  },
+  {
+    "id": "23603",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat animal is in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "donkey"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/O4uso5J32PY/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/O4uso5J32PY/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/O4uso5J32PY/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/O4uso5J32PY/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/O4uso5J32PY/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/O4uso5J32PY/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/O4uso5J32PY/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/O4uso5J32PY/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/O4uso5J32PY/audio.wav"
+    ]
+  },
+  {
+    "id": "36170",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<video>\n<audio>\nWhat animals appear in the video?"
+      },
+      {
+        "from": "gpt",
+        "value": "lion"
+      }
+    ],
+    "video": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/dHV_xyiJGIc/frame_001.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/dHV_xyiJGIc/frame_002.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/dHV_xyiJGIc/frame_003.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/dHV_xyiJGIc/frame_004.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/dHV_xyiJGIc/frame_005.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/dHV_xyiJGIc/frame_006.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/dHV_xyiJGIc/frame_007.jpg",
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/dHV_xyiJGIc/frame_008.jpg"
+    ],
+    "voice": [
+      "/home/qukungroup/xiaoyao/dataset_QA/AVQA_dataset/frames_converted_2/dHV_xyiJGIc/audio.wav"
+    ]
+  }
+]
